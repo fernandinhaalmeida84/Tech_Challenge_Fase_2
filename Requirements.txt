@@ -1,1 +1,6 @@
-
+# Bibliotecas utilizadas na execução do projeto:
+- Pandas
+- Seaborn
+- Matplotlib
+- NumPy
+- Scikit-learn
