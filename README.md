@@ -6,11 +6,11 @@
 - ANGELICA FONSECA DE FREITAS – RM377836
 - FERNANDA DE OLIVEIRA ALMEIDA – RM377812
 - GABRIELA SOUZA E SILVA – RMxxxx
-- JULIANA OLIVEIRA COUTO ESPINDOLA VAZ DE LIMA – RMxxxx
+- JULIANA OLIVEIRA COUTO ESPINDOLA VAZ DE LIMA – RM377805
 - WILLIAM VLADIMIR ROSALES MERIDA DA SILVA – RM377758
 
 ## Objetivo
-Desenvolver um modelo de Machine Learning capaz de prever se um solicitante de cartão de crédito possui perfil de “bom” ou “mau pagador”, apoiando o processo de análise de crédito e mitigação de riscos.
+Desenvolver um modelo de Machine Learning capaz de prever se um solicitante de cartão de crédito possui perfil de “bom” ou “mau pagador”, apoiando o processo de análise de crédito e mitigação de riscos de inadimplência.
 
 ## Problema de Negócio
 A concessão de crédito é uma atividade essencial para as instituições financeiras, mas envolve riscos relacionados à inadimplência.
