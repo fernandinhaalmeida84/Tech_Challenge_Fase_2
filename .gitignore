@@ -1,6 +1,6 @@
 # Dados — nunca versione datasets
 data/raw/*
-data/processed/*
+#data/processed/* #comentamos esse código, pois vamos manter arquivos processados. os dados tratados no notebook 01 serão utilizados nos notebooks seguintes. 
 !data/**/.gitkeep
 !data/**/README.md
 
