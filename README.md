@@ -12,6 +12,8 @@
 
 ## Integrantes
 
+| Nome completo | RM | E-mail |
+|---|---|---|
 | Angelica Fonseca de Freitas | RM377836 | angelicafonsecabb@gmail.com |
 | Fernanda de Oliveira Almeida | RM377812 | fernandaalmeida84@yahoo.com.br |
 | Gabriela Souza e Silva | RM377814 | gsgabizinha@gmail.com |
