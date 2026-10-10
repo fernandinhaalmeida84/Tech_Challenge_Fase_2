@@ -2,12 +2,21 @@
 
 # Predição de Aprovação de Pedidos De Cartão De Crédito
 
-# Integrantes
-- ANGELICA FONSECA DE FREITAS – RM377836
-- FERNANDA DE OLIVEIRA ALMEIDA – RM377812
-- GABRIELA SOUZA E SILVA – RM377814
-- JULIANA OLIVEIRA COUTO ESPINDOLA VAZ DE LIMA – RM377805
-- WILLIAM VLADIMIR ROSALES MERIDA DA SILVA – RM377758
+## Identificação
+
+| Campo | Valor |
+|---|---|
+| Turma | 2º ano – 2DTATBB – 4ª Entrada |
+| Grupo | Grupo 33 |
+| Data de entrega | 10/10/2026 |
+
+## Integrantes
+
+| Angelica Fonseca de Freitas | RM377836 | angelicafonsecabb@gmail.com |
+| Fernanda de Oliveira Almeida | RM377812 | fernandaalmeida84@yahoo.com.br |
+| Gabriela Souza e Silva | RM377814 | gsgabizinha@gmail.com |
+| Juliana Oliveira Couto Espindola Vaz de Lima | RM377805 | juoliveiracouto@gmail.com |
+| William Vladimir Rosales Merida da Silva | RM377758 | wvmerida@gmail.com |
 
 ## Objetivo
 Desenvolver um modelo de Machine Learning capaz de prever se um solicitante de cartão de crédito possui perfil de “bom” ou “mau pagador”, apoiando o processo de análise de crédito e mitigação de riscos de inadimplência.
