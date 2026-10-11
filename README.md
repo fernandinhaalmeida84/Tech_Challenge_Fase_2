@@ -2,7 +2,7 @@
 
 # Predição de Aprovação de Pedidos De Cartão De Crédito
 
-## Identificação
+## 1. Identificação
 
 | Campo | Valor |
 |---|---|
@@ -20,10 +20,16 @@
 | Juliana Oliveira Couto Espindola Vaz de Lima | RM377805 | juoliveiracouto@gmail.com |
 | William Vladimir Rosales Merida da Silva | RM377758 | wvmerida@gmail.com |
 
-## Objetivo
+## 2. Links da entrega
+
+|Repositório| xxxx|	
+|Vídeo executivo (≤ 5 min)| xxxx|
+|Apresentação| xxx|
+
+## 3. Objetivo
 Desenvolver um modelo de Machine Learning capaz de prever se um solicitante de cartão de crédito possui perfil de “bom” ou “mau pagador”, apoiando o processo de análise de crédito e mitigação de riscos de inadimplência.
 
-## Problema de Negócio
+## 4. Problema de Negócio
 A concessão de crédito é uma atividade essencial para as instituições financeiras, mas envolve riscos relacionados à inadimplência.
 O objetivo deste projeto é utilizar dados históricos dos clientes para identificar padrões de comportamento e construir um modelo preditivo capaz de apoiar a decisão de aprovação de novas solicitações de cartão de crédito.
 
@@ -37,7 +43,8 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 -	Seanborn
 -	NumPy
 -	Scikit-Learn
--	??????
+-	XGBoost
+-	
 
 ## Estrtutura do repositório
 ├── data/ : bases de dados
