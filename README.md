@@ -66,7 +66,7 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 - Histórico de pagamentos
 - Relações entre características cadastrais e inadimplências
 
-## Foram utilizados as modelagens:
+## As modelagens utilizadas foram:
 -	Regressão Logística
 -	Árvore de Decisão
 -	Random Forest
