@@ -2,12 +2,15 @@
   "turma": "12DTAT",
   "grupo": "Grupo 00",
   "integrantes": [
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" },
-    { "nome": "Nome Completo do Integrante", "rm": "RM000000" }
+    { "nome": "ANGELICA FONSECA DE FREITAS", "rm": "RM377836" },
+    { "nome": "FERNANDA DE OLIVEIRA ALMEIDA", "rm": "RM377812" },
+    { "nome": "GABRIELA SOUZA E SILVA", "rm": "RM377814" },
+    { "nome": "JULIANA OLIVEIRA COUTO ESPINDOLA VAZ DE LIMA", "rm": "RM377805" },
+    { "nome": "WILLIAM VLADIMIR ROSALES MERIDA DA SILVA", "rm": "RM377758" }
   ],
   "links": {
     "repositorio": "https://github.com/fernandinhaalmeida84/Tech_Challenge_Fase_2",
-    "video": "https://www.youtube.com/watch?v=xxxxxxxxxxx",
-    "apresentacao": "https://github.com/usuario/nome-do-repositorio/blob/main/docs/apresentacao_executiva.pdf"
+    "video": "https://bit.ly/video_TC_fase2_grupo33",
+    "apresentacao": "https://github.com/fernandinhaalmeida84/Tech_Challenge_Fase_2/tree/main/docs/apresentacao_executiva.pdf"
   }
 }
