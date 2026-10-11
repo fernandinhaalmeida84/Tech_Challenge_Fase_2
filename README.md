@@ -33,12 +33,12 @@ Desenvolver um modelo de Machine Learning capaz de prever se um solicitante de c
 A concessão de crédito é uma atividade essencial para as instituições financeiras, mas envolve riscos relacionados à inadimplência.
 O objetivo deste projeto é utilizar dados históricos dos clientes para identificar padrões de comportamento e construir um modelo preditivo capaz de apoiar a decisão de aprovação de novas solicitações de cartão de crédito.
 
-## Bases utilizadas 
+## 5. Bases utilizadas 
 https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=sharing
 - applocation_record.csv: dados cadastrais e características dos clientes.
 - credit_record.csv: histórico mensal de pagamentos dos clientes.
 
-## Tecnologicas utilizadas
+## 6. Tecnologicas utilizadas
 -	Python
 -	Google Colab
 -	Pandas
@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 -	Scikit-Learn
 -	Git e Github
 
-## Estrtutura do repositório
+## 7. Estrtutura do repositório
 ├── data/ : bases de dados
 
 ├── notebooks/ : análises realizadas no python
@@ -58,7 +58,7 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 └── requirements.txt : bibliotecas utilizadas
 
 
-## Principais Análises Exploratórias
+## 8. Principais Análises Exploratórias
 - Distribuição das variáveis
 - Perfil dos clientes
 - Valores ausentes
@@ -66,13 +66,13 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 - Histórico de pagamentos
 - Relações entre características cadastrais e inadimplências
 
-## As modelagens utilizadas foram:
+## 9. As modelagens utilizadas foram:
 -	Regressão Logística
 -	Árvore de Decisão
 -	Random Forest
 -	XGBoost
 
-## Avaliação
+## 10. Avaliação
 As métricas utilizadas foram:
 -	Accuracy
 -	Precision
