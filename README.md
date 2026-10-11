@@ -142,13 +142,12 @@ Para o alvo alternativo (Inad30), o sinal é ainda mais fraco: AUC-ROC de 0,554 
 4. **As variáveis que mais pesam são o tempo de trabalho e a idade**, nos dois modelos (coeficientes da Regressão Logística e importância por permutação do Random Forest). Em linguagem de negócio, a estabilidade profissional e a fase da vida do cliente carregam mais informação de risco que renda, estado civil ou sexo. A **renda declarada praticamente não discrimina** o risco.
 5. **Dividir por perfil evita um falso sucesso.** 96,5% dos clientes dividem o cadastro com outros. Se misturarmos perfis iguais no treino e no teste, o Random Forest parece prever bem (AUC-ROC de 0,72), mas é uma ilusão; separando por perfil, ele cai para o patamar real, perto de 0,56.
 
-### Limitações e próximos passos
+### Limitações
 
 - **Só 8% do cadastro tem histórico de crédito** (36.457 de 438.463 clientes). Medimos inadimplência apenas nesse recorte, então há viés de seleção, e o resultado pode não valer para quem nunca teve histórico.
 - **Poucos casos positivos:** 74 inadimplentes no teste. As faixas de incerteza são largas, e por isso as apresentamos sempre junto com os valores.
 - **Efeito de exposição:** quem tem mais meses de histórico tem mais chances de aparecer como inadimplente. Por isso o tamanho do histórico não entrou como variável.
 - **Probabilidades não calibradas:** o `class_weight` desloca as probabilidades, então expressamos os cortes como "recusar os X% de maior risco".
-- **Próximos passos:** incorporar variáveis de comportamento (renda comprovada, consultas a bureaus, uso do produto), calibrar as probabilidades e testar o modelo em uma amostra mais recente, em piloto controlado como apoio à triagem.
 
 ---
 
