@@ -1,6 +1,17 @@
-# Bibliotecas utilizadas na execução do projeto:
-- Pandas
-- Seaborn
-- Matplotlib
-- NumPy
-- Scikit-learn
+# Tech Challenge Fase 2 - dependencias dos notebooks 01 a 04
+# Python 3.10 ou superior. Instalacao: pip install -r requirements.txt
+#
+# scikit-learn FIXO em 1.6.1 (versao do Google Colab): a divisao treino/teste
+# (StratifiedGroupKFold) muda entre versoes e, com ela, todos os numeros do projeto.
+scikit-learn==1.6.1
+
+# Demais bibliotecas com faixa de versao (testadas com numpy 2.2 / pandas 2.2 / matplotlib 3.10-3.11)
+numpy>=1.26,<3
+pandas>=2.1,<3
+matplotlib>=3.8,<4
+seaborn>=0.13,<0.14   # usada apenas no notebook 01
+
+# Para executar os notebooks localmente (o Colab ja traz tudo isso)
+ipython>=8
+ipykernel>=6
+jupyterlab>=4
