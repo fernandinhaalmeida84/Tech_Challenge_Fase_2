@@ -55,6 +55,10 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 
 ├── notebooks/ : análises realizadas no python
 
+├── src
+
+├── submissão: arquivos que foram submissos
+
 ├── README.md : documentação do projeto
 
 └── requirements.txt : bibliotecas utilizadas
