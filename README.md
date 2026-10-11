@@ -51,6 +51,8 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 ## 7. Estrtutura do repositório
 ├── data/ : bases de dados
 
+├── docs: Apresentação executiva
+
 ├── notebooks/ : análises realizadas no python
 
 ├── README.md : documentação do projeto
