@@ -35,23 +35,23 @@ O objetivo deste projeto é utilizar dados históricos dos clientes para identif
 
 ## Bases utilizadas 
 https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=sharing
+- applocation_record.csv: dados cadastrais e características dos clientes.
+- credit_record.csv: histórico mensal de pagamentos dos clientes.
 
 ## Tecnologicas utilizadas
 -	Python
+-	Google Colab
 -	Pandas
 -	Matplotlib
 -	Seanborn
 -	NumPy
 -	Scikit-Learn
--	XGBoost
--	
+-	Git e Github
 
 ## Estrtutura do repositório
 ├── data/ : bases de dados
 
 ├── notebooks/ : análises realizadas no python
-
-├── images/ : gráficos e imagens
 
 ├── README.md : documentação do projeto
 
@@ -59,11 +59,12 @@ https://drive.google.com/file/d/1z4yEyiCE_CGCWbvAAZQZSz-5-E5T5eYd/view?usp=shari
 
 
 ## Principais Análises Exploratórias
-- Distribuição de renda
+- Distribuição das variáveis
 - Perfil dos clientes
-- Relação entre idade e inadimplência
-- Relação entre renda e inadimplência
-- Análises de históricos de pagamento
+- Valores ausentes
+- Duplicidades
+- Histórico de pagamentos
+- Relações entre características cadastrais e inadimplências
 
 ## Foram utilizados as modelagens:
 -	Regressão Logística
