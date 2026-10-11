@@ -1,6 +1,6 @@
 # Tech Challenge — Fase 2 | POSTECH Data Analytics
 
-**Predição de risco de inadimplência em pedidos de cartão de crédito**
+**Predição de aprovação de pedidos de cartão de crédito**
 
 ---
 
