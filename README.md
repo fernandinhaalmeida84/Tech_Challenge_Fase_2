@@ -36,7 +36,7 @@
 
 ## 3. O problema
 
-A concessão de cartão de crédito é uma das atividades centrais de uma instituição financeira, e também uma das que mais expõem o banco ao risco de inadimplência. Atualmente, a decisão depende de regras e da análise de cada solicitação. Com dados históricos de clientes, o Machine Learning pode **ordenar os novos solicitantes por risco** e apoiar a triagem, para que o analista concentre a atenção onde ela mais importa.
+A concessão de cartão de crédito é uma das atividades centrais de uma instituição financeira, e também uma das que mais expõem o banco ao risco de inadimplência. Atualmente, a decisão depende de regras e da análise de cada solicitação. Com dados históricos de clientes, o Machine Learning pode **ordenar os novos solicitantes por risco** e apoiar a triagem, para que o analista concentre a atenção em atividades negociais para alavancar a performance da carteira.
 
 **Pergunta que o projeto responde:** o perfil que o cliente declara no cadastro consegue prever quem vai ficar inadimplente?
 
