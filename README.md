@@ -83,8 +83,9 @@ As métricas utilizadas foram:
 -	Matriz de Confusão
 - ROC-AUC
 
-## Resultados
-Os principais resultados foram.... 
+## 11. Resultados
+Partimos de uma pergunta de negócio: dá para prever, só com o que o cliente declara no cadastro, quem vai ficar inadimplente? Tratamos os dados e entendemos a base (notebook 1), definimos a inadimplência com dois critérios e provamos que o histórico mais longo não podia entrar no modelo (notebook 2), comparamos dois modelos sem vazamento, separando perfis idênticos (notebook 3), e agora confirmamos tudo em clientes que os modelos nunca viram (notebook 4).
 
+A resposta é: um pouco, e não o bastante para decidir sozinho. O cadastro tem um sinal fraco no conjunto, com valor concentrado no topo do ranking (os 5% de maior risco têm cerca de 5 vezes a taxa média de inadimplência), e quase nenhum sinal para o atraso leve. Isso vale para dois algoritmos bem diferentes, então o limite está na informação disponível, não na técnica. Um modelo assim serve como apoio de triagem para organizar a fila de análise, não como juiz de aprovação ou recusa. Se a instituição quiser crédito automatizado de verdade, o investimento certo é em mais e melhores dados.
 
   
